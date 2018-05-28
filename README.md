@@ -1,4 +1,4 @@
-# Adrian's Codewars Solutions
+# Adrian's Code Challenge Solutions
 
 This repo exists so I keep my coding skills sharp.  
 
